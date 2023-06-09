@@ -3,10 +3,9 @@ import Typewriter from 'typewriter-effect'
 const App = () => {
   return (
     <div>
-      <h1>My Name is Bhupraj Dhimal</h1>
-      <h1>I am from Nepal ¢</h1>
+      <h1>My Name is Bhupraj Dhimal, I am</h1>
       <h1>
-      <Typewriter
+        <Typewriter
         const options={{
           strings: ['Web Developer', 'Web Designer', 'And SEO expert.'],
           autoStart: true,
