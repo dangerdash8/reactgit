@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactgit/static/js/main.e980e36b.js",
+    "index.html": "/reactgit/index.html",
+    "main.e980e36b.js.map": "/reactgit/static/js/main.e980e36b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e980e36b.js"
+  ]
+}

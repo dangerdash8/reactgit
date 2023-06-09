@@ -3,6 +3,7 @@ import Typewriter from 'typewriter-effect'
 const App = () => {
   return (
     <div>
+      <h1>My Name is Bhupraj Dhimal</h1>
       <h1>
       <Typewriter
         const options={{
